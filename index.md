@@ -12,7 +12,7 @@ layout: home
     <script type="text/javascript">
         function initViz() {
             var containerDiv = document.getElementById("vizContainer"),
-                url = "http://public.tableau.com/views/RegionalSampleWorkbook/Storms",
+                url = "https://public.tableau.com/views/GoogleExample/Sheet1",
                 options = {
                     hideTabs: true,
                     onFirstInteractive: function () {
