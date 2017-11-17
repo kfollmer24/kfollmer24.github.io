@@ -23,7 +23,7 @@ github_username:  kfollmer24
 
 # Build settings
 markdown: kramdown
-theme: webjeda purple
+theme: minima
 plugins:
   - jekyll-feed
 
