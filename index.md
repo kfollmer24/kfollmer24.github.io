@@ -5,33 +5,12 @@
 layout: home
 ---
 
-<html>
-<head>
-    <script type="text/javascript" 
-	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
-    <script type="text/javascript">
-        function initViz() {
-            var containerDiv = document.getElementById("vizContainer"),
-                url = "https://public.tableau.com/views/GoogleExample/Sheet1",
-                options = {
-                    hideTabs: true,
-                    onFirstInteractive: function () {
-                        console.log("Run this code when the viz has finished loading.");
-                    }
-                };
-            
-            var viz = new tableau.Viz(containerDiv, url, options); 
-            // Create a viz object and embed it in the container div.
-        }
-    </script>
-</head>
+Announcements:
 
-<body onload="initViz();">
+Tryouts and practice dates are not yet know. I will update this page as soon as I know. Thanks
 
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdW9VL_4m0JUER5ptCy2TluF2iPfRm-bGLaUPpZbb6vVG_LSA/viewform?embedded=true" width="400" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...
-	</iframe>
+Contact Info: karalea.follmer@gmail.com
 
-    <div id="vizContainer" style="width:800px; height:300px;"></div>    
-</body>
 
-</html>
+<iframe src="https://calendar.google.com/calendar/embed?src=creebg32ivhjuq38ij0t10c1h4%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
