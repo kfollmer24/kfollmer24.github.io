@@ -7,7 +7,7 @@ layout: home
 
 Announcements:
 
-Tryouts and practice dates are not yet know. I will update this page as soon as I know. Thanks
+*Tryouts and practice dates TBD. Most likely the week of Dec. 11 or Dec. 18 
 
 Contact Info: karalea.follmer@gmail.com
 
