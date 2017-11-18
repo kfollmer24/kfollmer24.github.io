@@ -5,11 +5,15 @@
 layout: home
 ---
 
-# <span style ="color:indigo">**Girls Basketball**</span>
+# <span style ="color:indigo">**Girls Tryouts: Dec 5,6,7 from 4:00 to 5:45PM**</span>
+## <span style ="color:gray">**Get Forms From and Return to Mr. Simcha in the gym**</span>
 
-* Tryouts and practice dates TBD. Most likely the week of Dec. 11 or Dec. 18 
+* Practice will start the following week. Date known next week
 * [Eligibility Requirements](https://washingtonms.seattleschools.org/student_activities/athletics)
-    *Each student must have a complete Athletic Registration Form and Physical Participation Form on file BEFORE trying out for a sport. Your medical physical form is good for 24 consecutive months. You’ll also need to read and sign the Concussion and Sudden Cardiac Arrest Awareness Form after reading the Concussion Information Sheet and Sudden Cardiac Arrest Information Sheet. Please fill out the appropriate sport form below and return all completed paperwork to Mr. Simcha in the gym.*
+    1. Completed Athletic Registration Form
+    2. Physical Registration Form
+    3. Signed Concussion and Sudden Cardiac Arrest Awarness Form
+    4. Academic Eligibility: 
 
 ## <span style="color:indigo">Contact Info:</span>
 
@@ -17,6 +21,7 @@ layout: home
 
 **JV Coach** Kara Follmer [karalea.follmer@gmail.com](mailto:karalea.follmer@gmail.com)    
 
+*You can sync this calendar to your phone or gmail account!*
 
 <iframe src="https://calendar.google.com/calendar/embed?src=creebg32ivhjuq38ij0t10c1h4%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
