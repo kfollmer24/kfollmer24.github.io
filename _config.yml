@@ -17,8 +17,8 @@ title: WMS Basketball
 email: karalea.follmer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Go Huskies!
-baseurl: "wmsbasketball.com" # the subpath of your site, e.g. /blog
-url: "wmsbasketball.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kfollmer24
 
 # Build settings
