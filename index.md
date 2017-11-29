@@ -6,9 +6,12 @@ layout: home
 ---
 
 # <span style ="color:indigo">**Girls Tryouts: Dec 5,6,7 from 4:00 to 5:45PM**</span>
+# <span style ="color:blue">**Boys Tryouts: Dec 11,13,14 from 4:00 to 5:45PM**</span>
+
 ## <span style ="color:gray">**Get Forms From and Return to Mr. Simcha in the gym**</span>
 
-* We will have one practice before Winter Break on Monday, Dec. 11th from 4:00 to 5:45. After the break, practices will be every Monday/Thursday with optional open gym/shootaround time on Friday
+* After the break, Girls practices will be every Monday/Thursday with optional open gym time on Friday
+* Boys Practices will be every Tue/Wed with optional open gym time on Friday
 * [Eligibility Requirements](https://washingtonms.seattleschools.org/student_activities/athletics)
     1. Completed Athletic Registration Form
     2. Physical Registration Form
@@ -17,7 +20,7 @@ layout: home
     
 _HOST students will be excused at 5:10 for their bus_
 
-## <span style="color:indigo">Contact Info:</span>
+## <span style="color:indigo">Girls Contact Info:</span>
 
 **Varsity Coach** Pedro Marquez [pmarquez@uw.edu](mailto:pmarquez@uw.edu)
 
