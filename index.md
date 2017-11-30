@@ -5,8 +5,7 @@
 layout: home
 ---
 
-# <span style ="color:indigo">**Girls Tryouts: Dec 5,6,7 from 4:00 to 5:45PM**</span>
-# <span style ="color:blue">**Boys Tryouts: Dec 11,13,14 from 4:00 to 5:45PM**</span>
+# <span style ="color:indigo">**Girls Tryouts: Dec 5,6,7 from 4:00 to 5:30PM**</span>
 
 ## <span style ="color:gray">**Get Forms From and Return to Mr. Simcha in the gym**</span>
 
