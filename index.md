@@ -5,7 +5,8 @@
 layout: home
 ---
 
-# <span style ="color:indigo">**Girls Tryouts: Dec 5,6,7 from 4:00 to 5:30PM**</span>
+# <span style ="color:indigo">**Girls Tryouts: Dec 5 4-5:30PM. Dec. 6 3-4:30PM, Dec. 7 4-5:30PM**</span>
+## <span style ="color:red">**Change: Wednesday Tryout will be 3 - 4:30 PM**</span>
 
 ## <span style ="color:gray">**Get Forms From and Return to Mr. Simcha in the gym**</span>
 
