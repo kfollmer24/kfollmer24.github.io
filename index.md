@@ -18,7 +18,8 @@ layout: home
     2. Physical Registration Form
     3. Signed Concussion and Sudden Cardiac Arrest Awarness Form
     4. Academic Eligibility
-    
+* HELP WANTED: Volunteer officials for JV games. No experience necessary, 16 - 88 y.o. We need your help for one game or all of them. Contact Coach K if interested.
+
 _HOST students will be excused at 5:25   for their bus_
 
 ## <span style="color:indigo">Girls Contact Info:</span>
