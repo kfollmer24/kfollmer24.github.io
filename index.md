@@ -5,20 +5,21 @@
 layout: home
 ---
 
-# <span style ="color:indigo">**Girls Tryouts: Dec 5 4-5:30PM. Dec. 6 3-4:30PM, Dec. 7 4-5:30PM**</span>
+# <span style ="color:indigo">**Girls Tryouts: Dec. 6 3-4:30PM, Dec. 7 4-5:30PM**</span>
+
 ## <span style ="color:red">**Change: Wednesday Tryout will be 3 - 4:30 PM**</span>
 
-## <span style ="color:gray">**Get Forms From and Return to Mr. Simcha in the gym**</span>
+## <span style ="color:gray">**Get your forms turned in**</span>
 
 * After the break, Girls practices will be every Monday/Thursday with optional open gym time on Friday
 * Boys Practices will be every Tue/Wed with optional open gym time on Friday
-* [Eligibility Requirements](https://washingtonms.seattleschools.org/student_activities/athletics)
+* **[Eligibility Requirements](https://washingtonms.seattleschools.org/student_activities/athletics)** 
     1. Completed Athletic Registration Form
     2. Physical Registration Form
     3. Signed Concussion and Sudden Cardiac Arrest Awarness Form
     4. Academic Eligibility
     
-_HOST students will be excused at 5:10 for their bus_
+_HOST students will be excused at 5:25   for their bus_
 
 ## <span style="color:indigo">Girls Contact Info:</span>
 
