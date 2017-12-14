@@ -9,7 +9,7 @@ layout: home
 
 ## <span style ="color:gray">**Get your forms turned in**</span>
 
-* After the break, Girls practices will be every Monday/Thursday with optional open gym time on Friday. Exception: the first Friday after break will be a full practice.
+* After the break, Girls practices will be every Monday/Thursday with optional open gym time on Friday. **Exception: When there is no practice on Monday due to no school, we will have a regular practice on Friday**
 * Boys Practices will be every Tue/Wed with optional open gym time on Friday
 * **[Eligibility Requirements](https://washingtonms.seattleschools.org/student_activities/athletics)** 
     1. Completed Athletic Registration Form
@@ -18,6 +18,7 @@ layout: home
     4. Academic Eligibility
 * HELP WANTED: Volunteer officials for JV games. No experience necessary, 16 - 88 y.o. We need your help for one game or all of them. Contact Coach K if interested.
 * Awaiting JV Schedule details from the school district
+* Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
 
 _HOST students will be excused at 5:25   for their bus_
 
