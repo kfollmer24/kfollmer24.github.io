@@ -5,13 +5,11 @@
 layout: home
 ---
 
-# <span style ="color:indigo">**Girls Tryouts: Dec. 6 3-4:30PM, Dec. 7 4-5:30PM**</span>
-
-## <span style ="color:red">**Change: Wednesday Tryout will be 3 - 4:30 PM**</span>
+# <span style ="color:indigo">**Get exercise over break! Pick up grade sheets from Mr. Simcha, first gradesheets due Jan. 5th**</span>
 
 ## <span style ="color:gray">**Get your forms turned in**</span>
 
-* After the break, Girls practices will be every Monday/Thursday with optional open gym time on Friday
+* After the break, Girls practices will be every Monday/Thursday with optional open gym time on Friday. Exception: the first Friday after break will be a full practice.
 * Boys Practices will be every Tue/Wed with optional open gym time on Friday
 * **[Eligibility Requirements](https://washingtonms.seattleschools.org/student_activities/athletics)** 
     1. Completed Athletic Registration Form
@@ -19,6 +17,7 @@ layout: home
     3. Signed Concussion and Sudden Cardiac Arrest Awarness Form
     4. Academic Eligibility
 * HELP WANTED: Volunteer officials for JV games. No experience necessary, 16 - 88 y.o. We need your help for one game or all of them. Contact Coach K if interested.
+* Awaiting JV Schedule details from the school district
 
 _HOST students will be excused at 5:25   for their bus_
 
