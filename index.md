@@ -5,17 +5,11 @@
 layout: home
 ---
 
-# <span style ="color:indigo">**Get exercise over break! Pick up grade sheets from Mr. Simcha, first gradesheets due Jan. 5th**</span>
+# <span style ="color:indigo">**Turn in Gradesheets! Varsity Game - Saturday 1PM @ Denny MS**</span>
 
-## <span style ="color:gray">**Get your forms turned in**</span>
+## <span style ="color:gray">**Varsity: Be at Denny at 12:30 or at WMS at 12:00 for a ride to the game**</span>
 
-* After the break, Girls practices will be every Monday/Thursday with optional open gym time on Friday. **Exception: When there is no practice on Monday due to no school, we will have a regular practice on Friday**
-* Boys Practices will be every Tue/Wed with optional open gym time on Friday
-* **[Eligibility Requirements](https://washingtonms.seattleschools.org/student_activities/athletics)** 
-    1. Completed Athletic Registration Form
-    2. Physical Registration Form
-    3. Signed Concussion and Sudden Cardiac Arrest Awarness Form
-    4. Academic Eligibility
+* Practices will be every Monday/Thursday with optional open gym time on Friday. **Exception: When there is no practice on Monday due to no school, we will have a regular practice on Friday**
 * HELP WANTED: Volunteer officials for JV games. No experience necessary, 16 - 88 y.o. We need your help for one game or all of them. Contact Coach K if interested.
 * Awaiting JV Schedule details from the school district
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
