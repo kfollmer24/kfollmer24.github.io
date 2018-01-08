@@ -10,6 +10,11 @@ layout: home
 ## <span style ="color:gray">**Varsity: 12:30 @ Ingraham HS. Be there at 12 OR at WMS at 11:30 for a ride to the game**</span>
 ## <span style ="color:gray">**JV: Game time and location TBD **</span>
 
+[Varsity Schedule (SUBJECT TO CHANGE)](https://www.seattleschools.org/UserFiles/Servers/Server_543/File/District/Departments/Athletics/Schedules/Middle%20School/12.06.17%20V%20Girls%20Basketball%20Schedule.pdf)
+
+JV Schedule (TBD)
+
+
 * Practices will be every Monday/Thursday with optional open gym time on Friday. **Exception: When there is no practice on Monday due to no school, we will have a regular practice on Friday**
 * HELP WANTED: Volunteer officials for JV games. No experience necessary, 16 - 88 y.o. We need your help for one game or all of them. Contact Coach K if interested.
 * Awaiting JV Schedule details from the school district
