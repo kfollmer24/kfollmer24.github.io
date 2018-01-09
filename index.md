@@ -7,17 +7,17 @@ layout: home
 
 # <span style ="color:indigo">**Turn in Gradesheets!**</span>
 
-## <span style ="color:gray">**Varsity: 12:30 @ Ingraham HS. Be there at 12 OR at WMS at 11:30 for a ride to the game**</span>
-## <span style ="color:gray">**JV: Game time and location TBD **</span>
+## <span style ="color:gray">**Varsity: 12:30 @ Ingraham HS. Be there at 12 OR at WMS at 11:30 for a ride**</span>
+## <span style ="color:gray">**JV: 8:30 @ Jane Addams MS. Be there at 8 OR at WMS at 7:30 for a ride **</span>
 
 [Varsity Schedule (SUBJECT TO CHANGE)](https://www.seattleschools.org/UserFiles/Servers/Server_543/File/District/Departments/Athletics/Schedules/Middle%20School/12.06.17%20V%20Girls%20Basketball%20Schedule.pdf)
 
-JV Schedule (TBD)
+JV Schedule (See gcal. PDF to come shortly)
 
-
+* **Rides to Games** Offered from WMS bus loop 1 hour before game time. Will return to WMS bus loop after game. Carpooling with other players encouraged.
+* Be at all games 30 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Practices will be every Monday/Thursday with optional open gym time on Friday. **Exception: When there is no practice on Monday due to no school, we will have a regular practice on Friday**
 * HELP WANTED: Volunteer officials for JV games. No experience necessary, 16 - 88 y.o. We need your help for one game or all of them. Contact Coach K if interested.
-* Awaiting JV Schedule details from the school district
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
 
 _HOST students will be excused at 5:25   for their bus_
