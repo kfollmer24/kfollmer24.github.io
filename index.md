@@ -4,11 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
+# <span style ="color:indigo">**Girls Basketball Team**</span>
 # <span style ="color:indigo">**Turn in Gradesheets!**</span>
 
-## <span style ="color:gray">**Varsity: 12:30 @ Ingraham HS. Be there at 12 OR at WMS at 11:30 for a ride**</span>
-## <span style ="color:gray">**JV: 8:30 @ Jane Addams MS. Be there at 8 OR at WMS at 7:30 for a ride**</span>
+## <span style ="color:gray">**Girls Varsity: 12:30 @ Ingraham HS. Be there at 12 OR at WMS at 11:30 for a ride**</span>
+## <span style ="color:gray">**Girls JV: 8:30 @ Jane Addams MS. Be there at 8 OR at WMS at 7:30 for a ride**</span>
 
 * **Rides to Games** Offered from WMS bus loop 1 hour before game time. Will return to WMS bus loop after game. Carpooling with other players encouraged.
 * Be at all games 30 minutes before the start time. Allow extra time when finding a new gym for the first time.
