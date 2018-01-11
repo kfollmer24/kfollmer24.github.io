@@ -24,9 +24,9 @@ _HOST students will be excused at 5:25   for their bus_
 
 **JV Coach** Kara Follmer [karalea.follmer@gmail.com](mailto:karalea.follmer@gmail.com)    
 
-[Varsity Schedule (SUBJECT TO CHANGE)](https://www.seattleschools.org/UserFiles/Servers/Server_543/File/District/Departments/Athletics/Schedules/Middle%20School/12.06.17%20V%20Girls%20Basketball%20Schedule.pdf)
+[Varsity Schedule](https://www.seattleschools.org/UserFiles/Servers/Server_543/File/District/Departments/Athletics/Schedules/Middle%20School/12.06.17%20V%20Girls%20Basketball%20Schedule.pdf)
 
-JV Schedule (See gcal. PDF to come shortly)
+[JV Schedule](https://drive.google.com/file/d/0BwiDebHtuGJsZF92MzAybFY1aC1ZcGV4bmh2TFlaM0RSTm44/view?usp=sharing)
 
 *You can sync this calendar to your phone or gmail account!*
 
