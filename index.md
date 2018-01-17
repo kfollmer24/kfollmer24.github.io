@@ -7,10 +7,10 @@ layout: home
 # <span style ="color:indigo">**Girls Basketball Team**</span>
 # <span style ="color:indigo">**Turn in Gradesheets!**</span>
 
-## <span style ="color:gray">**Girls Varsity: 1/20/18. 1PM @ Denny MS. Be there at 12:30 OR at WMS at 11:55 for a ride**</span>
-## <span style ="color:gray">**Girls JV: 1/20/18 11:30 @ Madison MS. Be there at 11 OR at WMS at 10:25 for a ride**</span>
+## <span style ="color:gray">**Girls Varsity: 1/20/18. 1PM @ Denny MS**</span>
+## <span style ="color:gray">**Girls JV: 1/20/18 11:30 @ Madison MS**</span>
 
-* **Rides to Games** Offered from WMS bus loop 1 hour before game time. Will return to WMS bus loop after game. Carpooling with other players encouraged.
+* **Rides to Games** Offered from WMS bus loop *exactly* 1 hour before game time. Will return to WMS bus loop after game. Carpooling with other players encouraged.
 * Be at all games 30 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Practices will be every Monday/Thursday with optional open gym time on Friday. **Exception: When there is no practice on Monday due to no school, we will have a regular practice on Friday**
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
