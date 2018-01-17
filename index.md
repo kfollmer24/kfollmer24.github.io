@@ -13,7 +13,6 @@ layout: home
 * **Rides to Games** Offered from WMS bus loop 1 hour before game time. Will return to WMS bus loop after game. Carpooling with other players encouraged.
 * Be at all games 30 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Practices will be every Monday/Thursday with optional open gym time on Friday. **Exception: When there is no practice on Monday due to no school, we will have a regular practice on Friday**
-* HELP WANTED: Volunteer officials for JV games. No experience necessary, 16 - 88 y.o. We need your help for one game or all of them. Contact Coach K if interested.
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
 
 _HOST students will be excused at 5:25   for their bus_
