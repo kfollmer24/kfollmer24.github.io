@@ -7,7 +7,7 @@ layout: home
 # <span style ="color:indigo">**Girls Basketball Team**</span>
 
 ## <span style ="color:gray">**Girls Varsity: 1/27/18. 1PM @ Chief Sealth**</span>
-## <span style ="color:gray">**Girls JV: 1/27/18 11AM @ Chief Sealth Upper **</span>
+## <span style ="color:gray">**Girls JV: 1/27/18 11AM @ Chief Sealth Upper**</span>
 
 * **Rides to Games** Offered from WMS bus loop *exactly* 1 hour before game time. Will return to WMS bus loop after game. Carpooling with other players encouraged.
 * Be at all games 30 minutes before the start time. Allow extra time when finding a new gym for the first time.
@@ -22,7 +22,7 @@ _HOST students will be excused at 5:25   for their bus_
 
 **JV Coach** Kara Follmer [karalea.follmer@gmail.com](mailto:karalea.follmer@gmail.com)    
 
-[Download Finalized Schedules Here] (https://www.seattleschools.org/departments/athletics/schedules_information/)
+[Download Finalized Schedules Here](https://www.seattleschools.org/departments/athletics/schedules_information/)
 
 *You can sync this calendar to your phone or gmail account!*
 
