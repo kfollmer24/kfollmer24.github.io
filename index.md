@@ -6,8 +6,8 @@ layout: home
 ---
 # <span style ="color:indigo">**Girls Basketball Team**</span>
 
-## <span style ="color:gray">**Girls Varsity: 1/27/18. 1PM @ Chief Sealth**</span>
-## <span style ="color:gray">**Girls JV: 1/27/18 11AM @ Chief Sealth Upper**</span>
+## <span style ="color:gray">**Girls Varsity: 2/3/18. 1PM @ Denny Middle School**</span>
+## <span style ="color:gray">**Girls JV: 11:30AM @ Madison Middle School**</span>
 
 * **Rides to Games** Offered from WMS bus loop 1 hour before game time. Will return to WMS bus loop after game. Carpooling with other players encouraged.
 * Be at all games 30 minutes before the start time. Allow extra time when finding a new gym for the first time.
