@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-# <span style ="color:indigo">**Girls Basketball Team**</span>
+# <span style ="color:indigo">**Girls Basketball Team: No practice Feb 1**</span>
 
 ## <span style ="color:gray">**Girls Varsity: 2/3/18. 1PM @ Denny Middle School**</span>
 ## <span style ="color:gray">**Girls JV: 11:30AM @ Madison Middle School**</span>
