@@ -6,15 +6,13 @@ layout: home
 ---
 # <span style ="color:indigo">**Girls Basketball Team**</span>
 
-## <span style ="color:gray">**Girls Varsity: 2/10/18. 1PM @ Chief Sealt vs. McClure (Wear Purple)**</span>
-## <span style ="color:gray">**Girls JV: 11AM @ Chief Sealth Upper Vs. McClure (Wear Purple)**</span>
+## <span style ="color:gray">**Varsity: 2/10/18. 1PM @ Chief Sealth vs. McClure (Wear Purple)**</span>
+## <span style ="color:gray">**JV: 11AM @ Chief Sealth Upper Vs. McClure (Wear Purple)**</span>
 
 * **Contact Coach if you need a rides to game. We will help you arrange** Carpooling with other players encouraged.
 * Be at all games 20 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Practices will be every Monday/Thursday with optional open gym time on Friday.
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
-
-_HOST students will be excused at 5:25   for their bus_
 
 ## <span style="color:indigo">Girls Contact Info:</span>
 
@@ -37,3 +35,5 @@ _HOST students will be excused at 5:25   for their bus_
   ga('create', 'UA-109236415-1', 'auto');
   ga('send', 'pageview');
 </script>
+
+_HOST students will be excused at 5:25   for their bus_
