@@ -4,13 +4,13 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-# <span style ="color:indigo">**Girls Basketball Team: No practice Feb 1**</span>
+# <span style ="color:indigo">**Girls Basketball Team**</span>
 
-## <span style ="color:gray">**Girls Varsity: 2/3/18. 1PM @ Denny Middle School**</span>
-## <span style ="color:gray">**Girls JV: 11:30AM @ Madison Middle School**</span>
+## <span style ="color:gray">**Girls Varsity: 2/10/18. 1PM @ Chief Sealt vs. McClure (Wear Purple)**</span>
+## <span style ="color:gray">**Girls JV: 11AM @ Chief Sealth Upper Vs. McClure (Wear Purple)**</span>
 
-* **Rides to Games** Offered from WMS bus loop 1 hour before game time. Will return to WMS bus loop after game. Carpooling with other players encouraged.
-* Be at all games 30 minutes before the start time. Allow extra time when finding a new gym for the first time.
+* **Contact Coach if you need a rides to game. We will help you arrange** Carpooling with other players encouraged.
+* Be at all games 20 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Practices will be every Monday/Thursday with optional open gym time on Friday.
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
 
