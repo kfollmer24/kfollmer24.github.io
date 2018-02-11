@@ -6,10 +6,14 @@ layout: home
 ---
 # <span style ="color:indigo">**Girls Basketball Team**</span>
 
-## <span style ="color:gray">**Varsity: 2/10/18. 1PM @ Chief Sealth vs. McClure (Wear Purple)**</span>
-## <span style ="color:gray">**JV: 11AM @ Chief Sealth Upper Vs. McClure (Wear Purple)**</span>
+## <span style ="color:gray">**Varsity: 2/17/18. 8:30AM @ Franklin vs. Aki Kurose (Wear White)**</span>
+## <span style ="color:gray">**JV: 10:15AM @ Madison Vs. Pathfinder (Wear White)**</span>
 
-* **Contact Coach if you need a rides to game. We will help you arrange** Carpooling with other players encouraged.
+## <span style ="color:black">**Special Team Event: March 2 After School**</span>
+## <span style ="color:black">**End of Season Banquet: March 16 5PM. Last Varsity Games on March 17**</span>
+
+
+* **Contact Coach if you need a ride to game. We will help you arrange** Carpooling with other players encouraged.
 * Be at all games 20 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Practices will be every Monday/Thursday with optional open gym time on Friday.
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
