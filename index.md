@@ -8,8 +8,9 @@ layout: home
 
 ## <span style ="color:gray">**Varsity: 2/17/18. 8:30AM @ Franklin vs. Aki Kurose (Wear White)**</span>
 ## <span style ="color:gray">**JV: 10:15AM @ Madison Vs. Pathfinder (Wear White)**</span>
+The JV Game has been confirmed. There was some confusion Thursday if it was happpening or not. It is ON.
 
-## <span style ="color:black">**Special Team Event: March 2 After School**</span>
+## <span style ="color:black">**Pac-12 Tournament: March 2 After School**</span>
 ## <span style ="color:black">**End of Season Banquet: March 16 5PM. Last Varsity Games on March 17**</span>
 
 
