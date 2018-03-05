@@ -5,9 +5,8 @@
 layout: home
 ---
 # <span style ="color:indigo">**Girls Basketball Team**</span>
-## <span style ="color:black">**Pac-12 Tournament: Friday, March 2 After School. Limited tickets available for Parents and Family, email Coach K for details**</span>
-## <span style ="color:purple">**Varisty: 8:30AM at Franklin. Vs. Eagle Staff (wear white)**</span>
-## <span style ="color:purple">**JV: 8:30AM at Franklin Auxillary. Vs. Eagle Staff (wear white)**</span>
+## <span style ="color:purple">**March 10 Varisty: 11:30 at Denny MS. Vs. Meany**</span>
+## <span style ="color:purple">**March 10 JV: 10:15AM at Madison MS. Vs. Meany**</span>
 
 ## <span style ="color:black">**End of Season Banquet: March 16 5PM. Last Varsity Games on March 17**</span>
 
