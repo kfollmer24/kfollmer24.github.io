@@ -6,7 +6,7 @@ layout: home
 ---
 # <span style ="color:indigo">**Girls Basketball Team**</span>
 ## <span style ="color:indigo">**March 17 Varsity Last Game: 11:30, 1 OR 2:30 at Chief Sealth HS**</span>
-## <span style ="color:indigo">*JV Season Over: Still come to practice for skill development!**</span>
+## <span style ="color:indigo">**JV Season Over: Still come to practice for skill development!**</span>
 
 ## <span style ="color:black">**End of Season Banquet: March 16 5PM in WMS Library (enter by front office)**</span>
 
