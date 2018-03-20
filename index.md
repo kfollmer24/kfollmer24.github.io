@@ -5,11 +5,10 @@
 layout: home
 ---
 # <span style ="color:indigo">**Girls Basketball Team**</span>
-## <span style ="color:indigo">**March 17 Varsity Last Game: 2:30 at Chief Sealth HS vs. Meany**</span>
-## <span style ="color:indigo">**JV Season Over: Still come to practice for skill development!**</span>
+## <span style ="color:indigo">**Congrats on the 2018 Season**</span>
 
-## <span style ="color:black">**End of Season Banquet: March 16 5PM in WMS Library (enter by front office)**</span>
-
+## <span style ="color:black">**Keep practicing in the off season or join a team**</span>
+[Boys and Girls Club League Starts in April](http://positiveplace.org/locations/rotary/programs/Pages/athletics.aspx)
 
 * **Contact Coach if you need a ride to game. We will help you arrange** Carpooling with other players encouraged.
 * Be at all games 20 minutes before the start time. Allow extra time when finding a new gym for the first time.
@@ -18,9 +17,9 @@ layout: home
 
 ## <span style="color:indigo">Girls Contact Info:</span>
 
-**Varsity Coach** Pedro Marquez [pmarquez@uw.edu](mailto:pmarquez@uw.edu)
+**Varsity Coach** Pedro Marquez
 
-**JV Coach** Kara Follmer [karalea.follmer@gmail.com](mailto:karalea.follmer@gmail.com)    
+**JV Coach** Kara Follmer
 
 [Download Finalized Schedules Here](https://www.seattleschools.org/departments/athletics/schedules_information/)
 
