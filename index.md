@@ -5,23 +5,23 @@
 layout: home
 ---
 # <span style ="color:indigo">**Girls Basketball Team**</span>
-## <span style ="color:indigo">**Congrats on the 2018 Season**</span>
+## <span style ="color:indigo">**Turn in paperwork to Mr. Simcha before Tryouts**</span>
 
-## <span style ="color:black">**Keep practicing in the off season or join a team**</span>
-[Boys and Girls Club League Starts in April](http://positiveplace.org/locations/rotary/programs/Pages/athletics.aspx)
+## <span style ="color:black">**First Day of Tryouts: Thursday, Dec. 6. 4-5:15PM**</span>
+[Forms available here or in the front office](https://www.seattleschools.org/departments/athletics/Forms/middle_school_forms)
 
 * **Contact Coach if you need a ride to game. We will help you arrange** Carpooling with other players encouraged.
 * Be at all games 20 minutes before the start time. Allow extra time when finding a new gym for the first time.
-* Practices will be every Monday/Thursday with optional open gym time on Friday.
+* Practices will be every Monday/Thursday
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
 
 ## <span style="color:indigo">Girls Contact Info:</span>
 
 **Varsity Coach** Pedro Marquez
 
-**JV Coach** Kara Follmer
+**JV Coach** Kara Follmer karalea.follmer@gmail.com
 
-[Download Finalized Schedules Here](https://www.seattleschools.org/departments/athletics/schedules_information/)
+[2018-19 Game Schedules TBD. First Varsity Game Jan. 12, First JV Game Jan. 19](https://www.seattleschools.org/departments/athletics/schedules_information/)
 
 *You can sync this calendar to your phone or gmail account!*
 
