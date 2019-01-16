@@ -4,10 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## <span style ="color:indigo">**Time for a great 2019 Season!**</span>
+## <span style ="color:indigo">**Free Basketball Clinic this Saturday Jan 19 @ SPU**</span>
+[Clinic Brochure](https://spufalcons.com/documents/2018/8/9//2018_19_Gym_Team_Program_Flyer.pdf?id=6632)
 
 ## <span style ="color:black">**Practice 4-5:30 Every Monday/Thursday**</span>
-[Forms available here or in the front office](https://www.seattleschools.org/departments/athletics/Forms/middle_school_forms)
+
+[2018-19 Game Schedules](https://www.seattleschools.org/departments/athletics/schedules_information/)
 
 * Be at all games 20 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
@@ -19,7 +21,7 @@ layout: home
 
 **JV Coach** Kara Follmer karalea.follmer@gmail.com
 
-[2018-19 Game Schedules TBD. First Varsity Game Jan. 12, First JV Game Jan. 19](https://www.seattleschools.org/departments/athletics/schedules_information/)
+
 
 *You can sync this calendar to your phone or gmail account!*
 
