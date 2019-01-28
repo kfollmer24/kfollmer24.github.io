@@ -8,8 +8,6 @@ layout: home
 
 ## <span style ="color:black">**Practice 4-5:30 Every Monday/Thursday**</span>
 
-[2018-19 Game Schedules](https://www.seattleschools.org/departments/athletics/schedules_information/)
-
 * Be at all games 20 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
 * **Contact Coach if you need a ride to game. We will help you arrange** Carpooling with other players encouraged.
