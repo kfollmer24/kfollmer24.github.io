@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## <span style ="color:indigo">**Free Basketball Clinic this Saturday Jan 19 @ SPU**</span>
-[Clinic Brochure](https://spufalcons.com/documents/2018/8/9//2018_19_Gym_Team_Program_Flyer.pdf?id=6632)
+## <span style ="color:indigo">**[2018-19 Game Schedules](https://www.seattleschools.org/departments/athletics/schedules_information/)
+**</span>
 
 ## <span style ="color:black">**Practice 4-5:30 Every Monday/Thursday**</span>
 
