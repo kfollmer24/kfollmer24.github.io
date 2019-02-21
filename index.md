@@ -7,7 +7,8 @@ layout: home
 
 ## <span style ="color:indigo">**[2018-19 Game Schedules](https://www.seattleschools.org/departments/athletics/schedules_information/)**</span>
 
-## <span style ="color:black">**PRACTICE CANCELLED 2/11. Practice 4-5:30 Every Monday/Thursday**</span>
+## <span style ="color:black">**Practice 4-5:30 Every Monday/Thursday there is school**</span>
+No School = No Practice
 
 * Be at all games 20 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
