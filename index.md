@@ -4,10 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
-## <span style ="color:indigo">**End of Season Banquet 5PM on Monday, March 18 in Cafeteria*</span>
-
+Important Updates:
 ## <span style ="color:black">**Varisty Game: 2:30 @ Denny MS vs. JAMS**</span>
+## <span style ="color:black">**Varisty Game: 2:30 @ Denny MS vs. JAMS**</span>
+
 
 ------
 
