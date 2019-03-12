@@ -5,11 +5,9 @@
 layout: home
 ---
 
-## <span style ="color:indigo">**End of Season Banquet 5PM on Monday, March 18. Location TBD (Check back here soon)**</span>
+## <span style ="color:indigo">**End of Season Banquet 5PM on Monday, March 18 in Cafeteria*</span>
 
-## <span style ="color:black">**TBD if Varsity has final game on Saturday**</span>
-
-Thanks for a great season!
+## <span style ="color:black">**Varisty Game: 2:30 @ Denny MS vs. JAMS**</span>
 
 ------
 
