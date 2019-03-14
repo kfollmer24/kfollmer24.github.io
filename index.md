@@ -6,7 +6,9 @@ layout: home
 ---
 Important Updates:
 ## <span style ="color:black">**3/16 Varisty Game: 2:30 @ Denny MS vs. JAMS**</span>
-## <span style ="color:black">**3/8 End of Season Banquet: 5PM @ WMS Cafeteria **</span>
+## <span style ="color:black">**3/18 End of Season Banquet: 5PM @ WMS Cafeteria**</span>
+
+Coaches will be there to supervise from 4-5PM if students want to stay after school
 
 
 ------
