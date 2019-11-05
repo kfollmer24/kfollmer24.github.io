@@ -6,7 +6,7 @@ layout: home
 ---
 Important Updates:
 ## <span style ="color:black">**Tryout dates coming soon**</span>
-## <span style ="color:black">**Make sure you get a physical before tryouts. Phsicals are valid for 2 years. Speak with the front office about options at Garfield HS clinic**</span>
+## <span style ="color:black">**You must have your forms complete before tryouts. Available in the front office or here https://www.seattleschools.org/cms/one.aspx?portalId=627&pageId=14975953 Physicals are valid for 2 years. Speak with the front office about options at Garfield HS clinic**</span>
 
 
 ------
