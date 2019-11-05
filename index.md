@@ -5,15 +5,11 @@
 layout: home
 ---
 Important Updates:
-## <span style ="color:black">**3/16 Varisty Game: 2:30 @ Denny MS vs. JAMS**</span>
-## <span style ="color:black">**3/18 End of Season Banquet: 5PM @ WMS Cafeteria**</span>
-
-Coaches will be there to supervise from 4-5PM if students want to stay after school
+## <span style ="color:black">**Tryout dates coming soon**</span>
+## <span style ="color:black">**Make sure you get a physical before tryouts. Phsicals are valid for 2 years. Speak with the front office about options at Garfield HS clinic**</span>
 
 
 ------
-
-Turn in your uniforms to Mr. Simcha
 
 * Be at all games 20 minutes before the start time. Allow extra time when finding a new gym for the first time.
 * Missed practice or game with notification = sit 1 qtr. For family emergency or sickness with notification = no penalty
