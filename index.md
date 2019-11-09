@@ -4,9 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-Important Updates:
+Girls Basketball Important Updates:
 ## <span style ="color:black">**Tryout dates coming soon**</span>
-## <span style ="color:black">**You must have your forms complete before tryouts. Available in the front office or here https://www.seattleschools.org/cms/one.aspx?portalId=627&pageId=14975953 Physicals are valid for 2 years. Speak with the front office about options at Garfield HS clinic**</span>
+## <span style ="color:black">**You must have your forms complete before tryouts. Available in the front office or here <a href ="https://www.seattleschools.org/cms/one.aspx?portalId=627&pageId=14975953">SPS Tryout Paperwork</a> Physicals are valid for 2 years. Speak with the front office about options at Garfield HS clinic**</span>
+
+Boys Basketball Info: Not maintained on this site. <a href="https://washingtonms.seattleschools.org/student_activities/athletics">WMS Athletics Homepage</a>
 
 
 ------
@@ -17,7 +19,7 @@ Important Updates:
 
 ## <span style="color:indigo">Girls Contact Info:</span>
 
-**Varsity Coach** Pedro Marquez
+**Varsity Coach** Pedro Marquez pmarqu01@seattlecentral.edu
 
 **JV Coach** Kara Follmer karalea.follmer@gmail.com
 
