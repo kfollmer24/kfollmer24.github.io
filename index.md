@@ -4,7 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## <span style ="color:black">**Girls Tryouts: Dec 3,4,5 from 4 - 5:30PM**</span>
+## <span style ="color:black">**Girls Tryouts: **</span>
+<u1>
+  <li>Tuesday, Dec. 3 4-5:30PM</li>
+  <li>Wednesday, Dec. 4 3-4:30PM ** earlier due to Wednesday early release </li>
+  <li>Thursday, Dec. 5 4-5:30PM</li>
+  </u1>
+
+No tryouts on Monday, Dec. 2nd. District Coaches meeting is that day.
+
 ## <span style ="color:black">**You must have your forms complete before tryouts. Available in the front office or here <a href ="https://www.seattleschools.org/cms/one.aspx?portalId=627&pageId=14975953">SPS Tryout Paperwork</a> Physicals are valid for 2 years. Speak with the front office about options at Garfield HS clinic**</span>
 
 Boys Basketball Info: Not maintained on this site. <a href="https://washingtonms.seattleschools.org/student_activities/athletics">WMS Athletics Homepage</a>
