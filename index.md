@@ -4,15 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## <span style ="color:black">Girls Tryouts: </span>
-<u1>
-  <li>Monday, Dec. 2 4-5:30PM</li>
-<li>Tuesday, Dec. 3 4-5:30PM</li>
-  <li>Wednesday, Dec. 4 3-4:30PM ** earlier due to Wednesday early release </li>
-  <li>Thursday, Dec. 5 4-5:30PM Teams announced</li>
-  <li>Friday, Dec. 6 **OPTIONAL** Open Gym/Shootaround 4-5:30 </li>
-  </u1>
-
+## <span style ="color:black">Parent Meeting Postponed Until After Break </span>
 
 ## <span style ="color:black">**You must have your forms complete before tryouts. Available in the front office or here <a href ="https://www.seattleschools.org/cms/one.aspx?portalId=627&pageId=14975953">SPS Tryout Paperwork</a> Physicals are valid for 2 years. Speak with the front office about options at Garfield HS clinic**</span>
 
