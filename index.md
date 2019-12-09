@@ -6,7 +6,7 @@ layout: home
 ---
 ## <span style ="color:black">Parent Meeting Postponed Until After Break </span>
 
-## <span style ="color:black">**You must have your forms complete before tryouts. Available in the front office or here <a href ="https://www.seattleschools.org/cms/one.aspx?portalId=627&pageId=14975953">SPS Tryout Paperwork</a> Physicals are valid for 2 years. Speak with the front office about options at Garfield HS clinic**</span>
+## <span style ="color:black">**Get your forms in to Mr. Hawkins <a href ="https://www.seattleschools.org/cms/one.aspx?portalId=627&pageId=14975953">SPS Tryout Paperwork</a> Physicals are valid for 2 years. Speak with the front office about options at Garfield HS clinic**</span>
 
 Boys Basketball Info: Not maintained on this site. <a href="https://washingtonms.seattleschools.org/student_activities/athletics">WMS Athletics Homepage</a>
 
